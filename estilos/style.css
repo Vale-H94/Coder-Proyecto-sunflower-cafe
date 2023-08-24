@@ -47,3 +47,17 @@
   margin-bottom: 60px !important;
   margin-top: 70px !important;
 }
+
+.menu {
+  font-weight: 600 !important;
+}
+
+.btn-primary{
+  background-color:dimgray !important;
+  border: none !important;
+}
+
+.btn-primary:hover{
+  background-color:darkorange!important;
+}
+
