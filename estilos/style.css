@@ -58,6 +58,91 @@
 }
 
 .btn-primary:hover{
-  background-color:darkorange!important;
+  background-color:darkorange !important;
 }
+
+footer {
+  background-color: #1c0c06;
+  color: white;
+  height: 220px;
+  display: flex;
+  align-items: start;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  padding-left: 50px;
+  padding-top: 15px;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url("https://assets.jumpseller.com/store/tiendafullpyme/themes/525468/img-13.png?key=ba9b277802c94434c58d3fb444c2d88b");
+
+  }
+ 
+#footer1 img{
+    width: 13rem;
+    display: flex;
+  }
+  
+#descripcion {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 0.8rem;
+    padding-bottom: 15px;
+  }
+  
+#redessociales2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+#redessociales2 a img{
+    margin: 5px;
+    width: 30px;
+  }
+  
+#email h4{
+    font-size: 0.8rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
+  
+.bloqueemail{
+    margin-top: 20px;
+    background-color: #ededed;
+    height: 20px;
+    width: 280px;
+  }
+  
+.icon-demo .bi, .icon-demo-examples .bi {
+    width: 1.3em;
+    height: 1.3em;
+    
+}
+
+.bi {
+    display: inline-block;
+    justify-content: end;
+    vertical-align: -0.125em;
+    fill: currentcolor;
+    margin-right: 10px;
+    justify-items: center;
+    margin-bottom: 2px;
+    vertical-align: -.125em;
+  }
+
+.icon-demo .flor, .icon-demo-examples .flor {
+  width: 1.3em;
+  height: 1.3em;
+ }
+     
+.flor {
+    display: inline-block;
+    justify-content: end;
+    vertical-align: -0.125em;
+    fill: currentcolor;
+
+    margin-right: 10px;
+    justify-items: center;
+    margin-top: 2px;
+  }
 
