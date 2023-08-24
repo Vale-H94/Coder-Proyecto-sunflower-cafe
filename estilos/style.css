@@ -1,0 +1,49 @@
+.redessociales {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.redessociales a img{
+  margin: 5px;
+  width: 30px;
+}
+
+.nav-item{
+  padding-right: 1.5rem !important;
+}
+
+.logof{
+  padding-right: 10rem !important;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 50%;
+  height: 0;
+  overflow: hidden;
+  display: flex;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80%;
+}
+
+.bloque1 {
+  margin-bottom: 60px !important;
+  margin-top: 50px !important;
+}
+
+.bloque2 {
+  margin-bottom: 60px !important;
+}
+
+.bloque3 {
+  margin-bottom: 60px !important;
+  margin-top: 70px !important;
+}
