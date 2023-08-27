@@ -62,87 +62,131 @@
 }
 
 footer {
+  margin-top: 180px;
   background-color: #1c0c06;
   color: white;
   height: 220px;
-  display: flex;
-  align-items: start;
+  display:flex;
   padding: 20px;
-  position: sticky;
-  top: 0;
   padding-left: 50px;
   padding-top: 15px;
   justify-content: space-around;
   align-items: center;
   background-image: url("https://assets.jumpseller.com/store/tiendafullpyme/themes/525468/img-13.png?key=ba9b277802c94434c58d3fb444c2d88b");
-
-  }
+}
  
 #footer1 img{
-    width: 13rem;
-    display: flex;
-  }
+  width: 13rem;
+  display: flex;
+}
   
 #descripcion {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
-    font-size: 0.8rem;
-    padding-bottom: 15px;
-  }
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 0.8rem;
+  padding-bottom: 15px;
+}
   
 #redessociales2 {
-    display: flex;
-    flex-wrap: wrap;
-  }
+  display: flex;
+  flex-wrap: wrap;
+}
   
 #redessociales2 a img{
-    margin: 5px;
-    width: 30px;
-  }
+  margin: 5px;
+  width: 30px;
+}
   
 #email h4{
-    font-size: 0.8rem;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
-  }
+  font-size: 0.8rem;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
   
 .bloqueemail{
-    margin-top: 20px;
-    background-color: #ededed;
-    height: 20px;
-    width: 280px;
-  }
+  margin-top: 20px;
+  background-color: #ededed;
+  height: 20px;
+  width: 280px;
+}
   
 .icon-demo .bi, .icon-demo-examples .bi {
-    width: 1.3em;
-    height: 1.3em;
+  width: 1.3em;
+  height: 1.3em;
     
 }
 
 .bi {
-    display: inline-block;
-    justify-content: end;
-    vertical-align: -0.125em;
-    fill: currentcolor;
-    margin-right: 10px;
-    justify-items: center;
-    margin-bottom: 2px;
-    vertical-align: -.125em;
-  }
+  display: inline-block;
+  justify-content: end;
+  vertical-align: -0.125em;
+  fill: currentcolor;
+  margin-right: 10px;
+  justify-items: center;
+  margin-bottom: 2px;
+  vertical-align: -.125em;
+}
 
 .icon-demo .flor, .icon-demo-examples .flor {
   width: 1.3em;
   height: 1.3em;
- }
+}
      
 .flor {
-    display: inline-block;
-    justify-content: end;
-    vertical-align: -0.125em;
-    fill: currentcolor;
+  display: inline-block;
+  justify-content: end;
+  vertical-align: -0.125em;
+  fill: currentcolor;
+  margin-right: 10px;
+  justify-items: center;
+  margin-top: 2px;
+}
 
-    margin-right: 10px;
-    justify-items: center;
-    margin-top: 2px;
-  }
+.nosotros {
+margin-top: 80px;
+text-align: center;
+color: dimgrey;
+}
+
+.suncafe1 {
+font-weight: 800px;
+text-align: center;
+color: darkorange;
+}
+
+.text1{
+font-size: 1.1rem;
+}
+
+.bloque4{
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
+.tituloteam {
+  text-align: center;
+  color: dimgrey;
+  margin-bottom: 50px;
+}
+
+.suncafe2 {
+  font-weight: 800px;
+  text-align: center;
+  color: darkorange;
+}
+
+.card-body{
+  text-align: center !important;
+}
+
+.team{
+  justify-content: center !important; 
+  display: flex !important;
+}
+
+.siguenos{
+  margin-top: 70px;
+  text-align: center;
+  color:darkorange;
+}
 
